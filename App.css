@@ -1,0 +1,9 @@
+label{
+  display: block;
+}
+input{
+  display: inline-block;
+}
+h1,p{
+  text-align: center;
+}
